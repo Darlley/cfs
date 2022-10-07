@@ -1,0 +1,16 @@
+{
+    "name": "darll/cfs",
+    "autoload": {
+        "psr-4": {
+            "Darll\\Cfs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Darlley"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
