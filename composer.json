@@ -1,16 +1,9 @@
 {
-    "name": "darll/cfs",
     "autoload": {
-        "psr-4": {
-            "Darll\\Cfs\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Darlley"
-        }
-    ],
-    "require": {
-        "vlucas/phpdotenv": "^5.4"
+        "files": [
+            "app/functions/custom.php",
+            "app/functions/pages.php",
+            "app/functions/validate.php"
+        ]
     }
 }

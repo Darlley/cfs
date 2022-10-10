@@ -1,0 +1,1 @@
+<h1>A página "<em><?php echo $_GET['page'] ?></em>" não foi encontrada</h1>
